@@ -1069,6 +1069,7 @@
 
 .u-section-7 .u-text-2 {
   font-family: Montserrat, sans-serif;
+  font-size: 1.875rem;
   margin: 39px 54px 0 70px;
 }
 
@@ -1138,7 +1139,6 @@
   .u-section-7 .u-text-2 {
     margin-right: 0;
     margin-left: 0;
-    font-size: 1.875rem;
     width: 331px;
   }
 
@@ -1329,7 +1329,7 @@
   font-weight: 700;
   font-size: 1.25rem;
   letter-spacing: 1px;
-  margin: 0 auto;
+  margin: 11px auto 0;
   padding: 0;
 }
 
